@@ -1,5 +1,7 @@
 # Bleach Encoding
 
+[![DOI](https://zenodo.org/badge/928951568.svg)](https://doi.org/10.5281/zenodo.17520158)
+
 Matlab class for simulating and evaluating how to encode data into fluorescently labeled filaments by photobleaching.
 
 ## Installation
